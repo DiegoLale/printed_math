@@ -1,0 +1,1 @@
+surface(file = "superficie3.dat", center = true, convexity = 5);
